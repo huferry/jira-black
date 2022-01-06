@@ -9,7 +9,7 @@
   },
   "content_scripts": [
     {
-    "matches": ["https://*.atlassian.net/*"],
+    "matches": ["https://jira.prorail.nl/*"],
     "js": ["script.js"],
     "css": ["style.css"]
     }
